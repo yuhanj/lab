@@ -18,5 +18,7 @@
   "appId": "7128bfd5-1781-4e47-9dad-1e6318fa0079",
   "packageDeployerScaffolded": true,
   "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "columnsScaffolded": true,
+  "pluginsScaffolded": true,
+  "logicSolutionScaffolded": true
 }
