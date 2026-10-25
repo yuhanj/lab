@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.1.0.643" SolutionPackageVersion="9.1" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>SolutionsLogic</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Solutions.Logic" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0</Version>
+    <Managed>2</Managed>
+    <Publisher>
+      <UniqueName>TALXISLab</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="TALXISLab" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions>
+        <Description description="TALXISLab" languagecode="1033" />
+      </Descriptions>
+      <EMailAddress xsi:nil="true">
+      </EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true">
+      </SupportingWebsiteUrl>
+      <CustomizationPrefix>lab</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>36171</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true">
+          </City>
+          <County xsi:nil="true">
+          </County>
+          <Country xsi:nil="true">
+          </Country>
+          <Fax xsi:nil="true">
+          </Fax>
+          <FreightTermsCode xsi:nil="true">
+          </FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true">
+          </ImportSequenceNumber>
+          <Latitude xsi:nil="true">
+          </Latitude>
+          <Line1 xsi:nil="true">
+          </Line1>
+          <Line2 xsi:nil="true">
+          </Line2>
+          <Line3 xsi:nil="true">
+          </Line3>
+          <Longitude xsi:nil="true">
+          </Longitude>
+          <Name xsi:nil="true">
+          </Name>
+          <PostalCode xsi:nil="true">
+          </PostalCode>
+          <PostOfficeBox xsi:nil="true">
+          </PostOfficeBox>
+          <PrimaryContactName xsi:nil="true">
+          </PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true">
+          </StateOrProvince>
+          <Telephone1 xsi:nil="true">
+          </Telephone1>
+          <Telephone2 xsi:nil="true">
+          </Telephone2>
+          <Telephone3 xsi:nil="true">
+          </Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true">
+          </TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true">
+          </UPSZone>
+          <UTCOffset xsi:nil="true">
+          </UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true">
+          </UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true">
+          </City>
+          <County xsi:nil="true">
+          </County>
+          <Country xsi:nil="true">
+          </Country>
+          <Fax xsi:nil="true">
+          </Fax>
+          <FreightTermsCode xsi:nil="true">
+          </FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true">
+          </ImportSequenceNumber>
+          <Latitude xsi:nil="true">
+          </Latitude>
+          <Line1 xsi:nil="true">
+          </Line1>
+          <Line2 xsi:nil="true">
+          </Line2>
+          <Line3 xsi:nil="true">
+          </Line3>
+          <Longitude xsi:nil="true">
+          </Longitude>
+          <Name xsi:nil="true">
+          </Name>
+          <PostalCode xsi:nil="true">
+          </PostalCode>
+          <PostOfficeBox xsi:nil="true">
+          </PostOfficeBox>
+          <PrimaryContactName xsi:nil="true">
+          </PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true">
+          </StateOrProvince>
+          <Telephone1 xsi:nil="true">
+          </Telephone1>
+          <Telephone2 xsi:nil="true">
+          </Telephone2>
+          <Telephone3 xsi:nil="true">
+          </Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true">
+          </TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true">
+          </UPSZone>
+          <UTCOffset xsi:nil="true">
+          </UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true">
+          </UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="91" id="{d4f4628e-43ad-4755-a73f-ea04600143a6}" schemaName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=76a0a9bc36564b30" behavior="0" />
+      <RootComponent type="92" id="{1729eba5-2d7d-4f13-96d7-46b83cc81635}" behavior="0" />
+      <RootComponent type="92" id="{8cc443b9-b933-4143-bd65-041bcbff69c0}" behavior="0" />
+    </RootComponents>
+    <MissingDependencies />
+  </SolutionManifest>
+</ImportExportXml>
